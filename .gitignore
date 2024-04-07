@@ -35,3 +35,6 @@ target
 
 # angular prep
 .angular/
+
+# direnv
+.direnv
